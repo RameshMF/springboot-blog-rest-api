@@ -4,6 +4,8 @@ Learn how to build real-time REST APIs with Spring Boot by building a complete B
 # Source code of Popular Building Real-Time REST APIs with Spring Boot Course
 Learn how to build real-time REST APIs with Spring Boot by building a complete Blog App.
 
+Udemy Course Link - https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/
+
 Link - https://courses.javaguides.net/p/building-rest-api-with-spring-boot
 
 # What you'll learn in this course ?
