@@ -30,3 +30,4 @@ Link - https://courses.javaguides.net/p/building-rest-api-with-spring-boot
 - Learn how to use JWT with Login API
 - Learn versioning REST APIs
 - Learn Important 4 versioning REST API strategies
+- Deploy Spring Boot Blog App on AWS Cloud
